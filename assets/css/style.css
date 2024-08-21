@@ -7,7 +7,7 @@
 
 .rectangle-3 {
     border-radius: 16px;
-    background: url('assets/1.jpg') 50% 50% no-repeat;
+    background: url('../images/2.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -22,7 +22,7 @@
 
 .rectangle-4 {
     border-radius: 16px;
-    background: url('assets/2.jpg') 50% 50% no-repeat;
+    background: url('../images/1.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -37,7 +37,7 @@
 
 .rectangle-41 {
     border-radius: 16px;
-    background: url('assets/3.jpg') 50% 50% no-repeat;
+    background: url('../images/2.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -52,7 +52,7 @@
 
 .rectangle-31 {
     border-radius: 16px;
-    background: url('assets/4.jpg') 50% 50% no-repeat;
+    background: url('../images/3.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -68,7 +68,7 @@
 
 .container-4 {
     border-radius: 16px;
-    background: url('assets/5.jpg') 50% 50% no-repeat;
+    background: url('../images/4.jpg') 50% 50% no-repeat;
     background-size: cover;
     display: flex;
     width: 316px;
@@ -84,16 +84,11 @@
     padding: 64px;
     width: 1440px;
     box-sizing: border-box;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 .rectangle-32 {
     border-radius: 16px;
-    background: url('assets/6.jpg') 50% 50% no-repeat;
+    background: url('../images/6.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -101,7 +96,7 @@
 
 .container-6 {
     border-radius: 16px;
-    background: url('assets/7.jpg') 50% 50% no-repeat;
+    background: url('../images/8.jpg') 50% 50% no-repeat;
     background-size: cover;
     display: flex;
     width: 316px;
@@ -111,7 +106,7 @@
 
 .rectangle-42 {
     border-radius: 16px;
-    background: url('assets/8.jpg') 50% 50% no-repeat;
+    background: url('../images/1.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -119,7 +114,7 @@
 
 .container-7 {
     border-radius: 16px;
-    background: url('assets/1.jpg') 50% 50% no-repeat;
+    background: url('../images/2.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -127,7 +122,7 @@
 
 .container-8 {
     border-radius: 16px;
-    background: url('assets/2.jpg') 50% 50% no-repeat;
+    background: url('../images/3.jpg') 50% 50% no-repeat;
     background-size: cover;
     width: 316px;
     height: 288px;
@@ -172,7 +167,6 @@
     padding: 18px 9.4px 18px 0;
     width: 158px;
     box-sizing: border-box;
-    align-items: center;
     text-align: center;
     justify-content: center;
 }
@@ -184,9 +178,6 @@
     font-size: 18px;
     line-height: 1;
     color: #FFFFFF;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
 }
 
 .image-list {
